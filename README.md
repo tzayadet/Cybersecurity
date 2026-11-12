@@ -56,3 +56,10 @@ El repositorio ha crecido como archivo de trabajo y conserva duplicados, version
 ## Licencia
 
 Consulta [LICENSE](LICENSE). La licencia del repositorio no concede autorización para probar herramientas contra sistemas ajenos ni sustituye las condiciones de uso de herramientas externas.
+
+
+## Project showcase
+
+[Open the Cybersecurity Research showcase](https://tzayadet.github.io/Cybersecurity/) · [Showcase source](docs/index.html)
+
+The page is a curated index of selected scripts and reference material. It does not execute tools or provide remote scanning functionality. GitHub Pages deployment is defined in `.github/workflows/pages.yml`; enable Pages with GitHub Actions in repository settings before the first deployment.
