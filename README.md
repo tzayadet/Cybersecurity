@@ -8,7 +8,7 @@
 Technical workspace covering offensive and defensive cybersecurity. It brings together personal scripts, automation, tool references, lab material, CTF notes and analysis resources.
 
 <p align="center">
-  <a href="https://tzayadet.github.io/Cybersecurity/"><strong>PROJECT SHOWCASE ↗</strong></a> ·
+  <a href="https://tzayadet.github.io/Cybersecurity/"><strong>LIVE DEMO ↗</strong></a> ·
   <a href="https://github.com/tzayadet/Cybersecurity"><strong>SOURCE CODE</strong></a>
 </p>
 
